@@ -1,7 +1,7 @@
 ```diff
 # Hey
 
-# -----> https://JvkScript.me
+# -----> https://Kscript.me
 ```
 
-_[Atlas](https://jvkScript.me/atlas) . [Aurora](https://jvkScript.me/aurora) . [Fauno](https://jvkScript.me/fauno) . [Hero](https://jvkScript.me/hero) . [Texugo](https://jvkScript.me/texugo) . [Vilgax](https://jvkScript.me/vilgax)_
+_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
