@@ -3,6 +3,7 @@
 
 # -----> https://Kscript.me
 
+```
 
 _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
 
@@ -21,5 +22,3 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 >__Challenge-TaskManager__: _Full-stack task manager (FastAPI + SQLite + Next.js), fully containerized with Docker Compose and covered by automated API tests._
 
 -------------------------
-
-```
