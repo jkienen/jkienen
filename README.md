@@ -13,6 +13,18 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
   <img src="./crowdstrike-administrator-ccfa.png" width="120" />
 </div>
 
+<table border="0">
+  <tr>
+    <td valign="middle">
+      Seu texto aqui
+    </td>
+    <td valign="middle" align="right">
+      <img src="./comptia-security+-ce.png" width="120" />
+      <img src="./crowdstrike-administrator-ccfa.png" width="120" />
+    </td>
+  </tr>
+</table>
+
 -------------------------
 
 | Featured project | What it delivers | Repository |
