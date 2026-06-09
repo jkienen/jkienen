@@ -25,7 +25,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 **Featured projects:**
 
-| Featured project | What it delivers |
+| Project | What it delivers |
 |:---:|:---:|
 | [_Crowdstrike Detection Cmdline History_](https://github.com/jkienen/Crowdstrike-Detection-Cmdline-History) | _SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage._ |
 | [_Crowdstrike Prevention Health Sensor_](https://github.com/jkienen/Crowdstrike-Prevention-Health-Sensor) | _Fleet-wide sensor health audit built on Zero Trust Assessment, surfacing RFM and degraded protections in a per-OS OK/ATTENTION report._ |
