@@ -1,15 +1,21 @@
 ```diff
 # Hey
 
-# -----> https://Kscript.me
+I'm a Security Engineer with 5+ years of experience designing and operating
+enterprise-scale cybersecurity environments — from strategic planning
+to production automation.
 
+Specialist in **CrowdStrike** (CCFA), **EDR**, **IDP**, **SIEM**, **SOAR**,
+**PAM**, and **Vulnerability Management**. Background in Data Science and
+security automation to turn security signals into intelligent workflows.
+
+# -----> https://Kscript.me
 ```
 
-_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
-
-![Descrição](./comptia-security+-ce.png)
 <img src="./comptia-security+-ce.png" />
 <img src="./crowdstrike-administrator-ccfa.png" />
+
+_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
 
 -------------------------
 
