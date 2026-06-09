@@ -8,13 +8,10 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 -------------------------
 
- 🛡️ Certifications
-
-<div align="center">
+<div align="right">
   <img src="./comptia-security+-ce.png" width="120" />
   <img src="./crowdstrike-administrator-ccfa.png" width="120" />
 </div>
-
 
 -------------------------
 
