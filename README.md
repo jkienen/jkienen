@@ -13,7 +13,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
   <img src="./crowdstrike-administrator-ccfa.png" width="120" />
 </div>
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
     <td valign="middle">
       Seu texto aqui
