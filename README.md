@@ -9,9 +9,10 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 -------------------------
 
 
-
-<img src="./comptia-security+-ce.png" width="90" />
-<img src="./crowdstrike-administrator-ccfa.png" width="90" />
+<td align="right">
+  <img src="./comptia-security+-ce.png" width="90" />
+  <img src="./crowdstrike-administrator-ccfa.png" width="90" />
+</td>
 
 
 
