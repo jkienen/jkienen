@@ -8,8 +8,8 @@
 _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
 
 ![Descrição](./comptia-security+-ce.png)
-<img src="./comptia-security+-ce.png" width="150" />
-<img src="./crowdstrike-administrator-ccfa.png" width="150" />
+<img src="./comptia-security+-ce.png" />
+<img src="./crowdstrike-administrator-ccfa.png" />
 
 -------------------------
 
