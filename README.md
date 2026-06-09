@@ -25,7 +25,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
   </tr>
 </table>
 
-| About | Certifications | Skills |
+| About | Skills | Certifications |
 |:---:|:---:|:---:|
 | _`Crowdstrike Detection Cmdline History`_ | _SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage._ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
 
