@@ -8,26 +8,10 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 -------------------------
 
-<div align="right">
-  <img src="./comptia-security+-ce.png" width="120" />
-  <img src="./crowdstrike-administrator-ccfa.png" width="120" />
-</div>
-
-<table border="0" width="100%">
-  <tr>
-    <td valign="middle">
-      Seu texto aqui
-    </td>
-    <td valign="middle" align="right">
-      <img src="./comptia-security+-ce.png" width="120" />
-      <img src="./crowdstrike-administrator-ccfa.png" width="120" />
-    </td>
-  </tr>
-</table>
-
-| About | Skills | Certifications |
+| About | Key Achievements | Certifications |
 |:---:|:---:|:---:|
-| _`Crowdstrike Detection Cmdline History`_ | _SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage._ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
+| _`Crowdstrike Detection Cmdline History`_ | _▸ Delivered CrowdStrike implementations for 20+ enterprise clients, covering 5,000+ endpoints (EDR, IDP, and Workflows).\n ▸ Built and operated an internal platform (VLIT) monitoring 3,000+ servers, achieving 95% protection coverage with automations for vulnerability management, Red Team ticketing, and PAM auditing.\n ▸ Developed a Data Lake integrating 20+ API endpoints and 40+ business rules in production, connecting 5+ security tools.
+_ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
 
 -------------------------
 
