@@ -10,7 +10,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 | About | Key Achievements | Certifications |
 |:---:|:---:|:---:|
-| _Security Engineer & Automation Specialist with 5+ years of experience building and operating enterprise cybersecurity environments. Specialist in CrowdStrike (CCFA), EDR, IDP, SIEM, SOAR, PAM, and Vulnerability Management — CompTIA Security+ certified and currently pursuing an MBA in Cyber Security & Governance at FIAP._<br>_I design architectures and automation pipelines that eliminate manual work and accelerate incident response. My background in Data Science and software development enables me to turn security signals into intelligent workflows and fast, data-driven decisions for Blue Team, Red Team, and SOC operations._ | _aaa_ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
+| _Security Engineer & Automation Specialist with 5+ years of experience building and operating enterprise cybersecurity environments. Specialist in CrowdStrike (CCFA), EDR, IDP, SIEM, SOAR, PAM, and Vulnerability Management — CompTIA Security+ certified and currently pursuing an MBA in Cyber Security & Governance at FIAP._<br><br>_I design architectures and automation pipelines that eliminate manual work and accelerate incident response. My background in Data Science and software development enables me to turn security signals into intelligent workflows and fast, data-driven decisions for Blue Team, Red Team, and SOC operations._ | _aaa_ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
 
 -------------------------
 
