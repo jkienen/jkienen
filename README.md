@@ -6,6 +6,7 @@
 
 _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
 
+-------------------------
 
 >__Crowdstrike-Detection-Cmdline-History__: _SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage._
 
