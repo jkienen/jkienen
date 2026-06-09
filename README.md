@@ -10,8 +10,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 | About | Key Achievements | Certifications |
 |:---:|:---:|:---:|
-| _`Crowdstrike Detection Cmdline History`_ | _▸ Delivered CrowdStrike implementations for 20+ enterprise clients, covering 5,000+ endpoints (EDR, IDP, and Workflows).\n ▸ Built and operated an internal platform (VLIT) monitoring 3,000+ servers, achieving 95% protection coverage with automations for vulnerability management, Red Team ticketing, and PAM auditing.\n ▸ Developed a Data Lake integrating 20+ API endpoints and 40+ business rules in production, connecting 5+ security tools.
-_ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
+| _Security Engineer & Automation Specialist with 5+ years of experience building and operating enterprise cybersecurity environments. Specialist in CrowdStrike (CCFA), EDR, IDP, SIEM, SOAR, PAM, and Vulnerability Management — with a background in Data Science and software development that enables me to turn security signals into automated workflows and data-driven decisions._ | _aaa_ | <img src="./comptia-security+-ce.png" width="120" /> <img src="./crowdstrike-administrator-ccfa.png" width="120" /> |
 
 -------------------------
 
