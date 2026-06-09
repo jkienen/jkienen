@@ -27,7 +27,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 | Project | What it delivers |
 |---|---|
-| [**Challenge-TaskManager**](https://github.com/<user>/Challenge-TaskManager) | Full-stack task manager (FastAPI + SQLite + Next.js), fully containerized with Docker Compose and covered by automated API tests. |
+| [Challenge-TaskManager](https://github.com/jkienen/Challenge-TaskManager) | > _Full-stack task manager (FastAPI + SQLite + Next.js), fully containerized with Docker Compose and covered by automated API tests._ |
 | [**Crowdstrike-Detection-Cmdline-History**](https://github.com/<user>/Crowdstrike-Detection-Cmdline-History) | SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage. |
 | [**Crowdstrike-Prevention-Health-Sensor**](https://github.com/<user>/Crowdstrike-Prevention-Health-Sensor) | Fleet-wide sensor health audit built on Zero Trust Assessment, surfacing RFM and degraded protections in a per-OS OK/ATTENTION report. |
 | [**Crowdstrike-USB-Device-Control-Usage**](https://github.com/<user>/Crowdstrike-USB-Device-Control-Usage) | Audits the Device Control USB allowlist against real usage, flagging each exception as active or dormant so stale ones can be safely revoked. |
