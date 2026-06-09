@@ -12,6 +12,22 @@ security automation to turn security signals into intelligent workflows.
 # -----> https://Kscript.me
 ```
 
+<table>
+  <tr>
+    <td>
+
+# Hey, I'm Kscript 👋
+
+Security Engineer with 5+ years of experience...
+
+    </td>
+    <td>
+      <img src="./comptia-security+-ce.png" width="120" />
+      <img src="./crowdstrike-administrator-ccfa.png" width="120" />
+    </td>
+  </tr>
+</table>
+
 <img src="./comptia-security+-ce.png" />
 <img src="./crowdstrike-administrator-ccfa.png" />
 
