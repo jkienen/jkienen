@@ -8,6 +8,7 @@ _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Faun
 
 -------------------------
 
+# 🛡️ Certifications
 
 <div align="center">
   <img src="./comptia-security+-ce.png" width="120" />
