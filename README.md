@@ -64,8 +64,6 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./crowdstrike-administrator-ccfa.png" width="110"/>
 
-**Skills**
-
 `CrowdStrike Falcon (EDR)` · `Security Automation` · `SIEM/SOAR` · `Vulnerability Management` · `Incident Response`
 
 </td></tr>
