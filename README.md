@@ -1,6 +1,6 @@
 | Kscript.me | Yin | Yang |
 |:---:|:---:|:---:|
-| <img src="./kscriptme.png" width="200" /> | _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ | _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ |
+| <img src="./kscriptme.png" width="200" /> | _Undetected threats, unpatched vulnerabilities, misconfigured systems, silent failures, and the attack surface that grows faster than it can be managed._<br><br>_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ | _Automated response, structured detection, controlled remediation, continuous monitoring, and the pipelines that turn security signals into actionable intelligence._<br><br>_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ |
 
 -------------------------
 
