@@ -25,7 +25,7 @@
 
 **Kscript.me**
 
-<a href="https://kscript.me/home"><img src="./kscriptme.png" width="160"/></a>
+<a href="https://kscript.me/home"><img src="./kscript.png" width="160"/></a>
 
 </td></tr>
 </table>
