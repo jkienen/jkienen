@@ -1,22 +1,3 @@
-```diff
-# Hey
-
-# -----> https://Kscript.me
-```
-
-<table width="100%">
-  <tr>
-    <th align="center">Kscript.me</th>
-    <th align="center">Yin</th>
-    <th align="center">Yang</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="./kscriptme.png" width="200" /></td>
-    <td align="center"><em><a href="https://kscript.me/atlas">Atlas</a> . <a href="https://kscript.me/aurora">Aurora</a> . <a href="https://kscript.me/fauno">Fauno</a> . <a href="https://kscript.me/hero">Hero</a> . <a href="https://kscript.me/texugo">Texugo</a> . <a href="https://kscript.me/vilgax">Vilgax</a></em></td>
-    <td align="center"><em><a href="https://kscript.me/atlas">Atlas</a> . <a href="https://kscript.me/aurora">Aurora</a> . <a href="https://kscript.me/fauno">Fauno</a> . <a href="https://kscript.me/hero">Hero</a> . <a href="https://kscript.me/texugo">Texugo</a> . <a href="https://kscript.me/vilgax">Vilgax</a></em></td>
-  </tr>
-</table>
-
 | Kscript.me | Yin | Yang |
 |:---:|:---:|:---:|
 | <img src="./kscriptme.png" width="200" /> | _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ | _[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ |
