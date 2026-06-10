@@ -81,7 +81,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 | [_**Full Stack Task Manager**_](https://github.com/jkienen/Challenge-TaskManager) | _Full-stack task manager (FastAPI + SQLite + Next.js), fully containerized with Docker Compose and covered by automated API tests._ |
 
 | Yin | Yang |
-|:---:|:---:|:---:|
+|:---:|:---:|
 | _Is the state of darkness — the moment of collapse, entropy, and dissolution. It is when systems, cycles, or states break down and return to their raw, unformed potential.._<br><br>_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_ | _Is the purification of that previous state — the force that takes what dissolved and reshapes it into something new, clearer, and more refined than before._<br><br>_[Atlas](https://atlas.kscript.me) . [Aurora](https://aurora.kscript.me) . [Fauno](https://fauno.kscript.me) . [Hero](https://hero.kscript.me) . [Texugo](https://texugo.kscript.me) . [Vilgax](https://vilgax.kscript.me)_ |
 
 -------------------------
@@ -95,6 +95,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 _`CrowdStrike Falcon (EDR)` - `Security Automation` - `SIEM/SOAR` - `Vulnerability Management` - `Incident Response`_
 
 </div>
+
 -------------------------
 
 | Featured Projects | What it delivers |
