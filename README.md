@@ -54,19 +54,19 @@ _[Atlas](https://atlas.kscript.me) . [Aurora](https://aurora.kscript.me) . [Faun
 <table>
 <tr><td align="center">
 
-### About
+**About**
 
 _Security Engineer & Automation Specialist with 5+ years of experience building and operating enterprise cybersecurity environments. Specialist in CrowdStrike (CCFA), EDR, IDP, SIEM, SOAR, PAM, and Vulnerability Management._
 
 _I design architectures and automation pipelines that eliminate manual work and accelerate incident response. My background in Data Science and software development enables me to turn security signals into intelligent workflows and fast, data-driven decisions for Blue Team, Red Team, and SOC operations._
 
-### Skills
-
-`CrowdStrike Falcon (EDR)` · `Security Automation` · `SIEM/SOAR` · `Vulnerability Management` · `Incident Response`
-
-### Certifications
+**Certifications**
 
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./crowdstrike-administrator-ccfa.png" width="110"/>
+
+**Skills**
+
+`CrowdStrike Falcon (EDR)` · `Security Automation` · `SIEM/SOAR` · `Vulnerability Management` · `Incident Response`
 
 </td></tr>
 </table>
