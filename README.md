@@ -60,8 +60,6 @@ _Security Engineer & Automation Specialist with 5+ years of experience building 
 
 _I design architectures and automation pipelines that eliminate manual work and accelerate incident response. My background in Data Science and software development enables me to turn security signals into intelligent workflows and fast, data-driven decisions for Blue Team, Red Team, and SOC operations._
 
-**Certifications**
-
 <img src="./comptia-security+-ce.png" width="110"/> &nbsp; <img src="./crowdstrike-administrator-ccfa.png" width="110"/>
 
 `CrowdStrike Falcon (EDR)` · `Security Automation` · `SIEM/SOAR` · `Vulnerability Management` · `Incident Response`
