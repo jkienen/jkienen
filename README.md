@@ -23,8 +23,6 @@
 <table>
 <tr><td align="center">
 
-**Kscript.me**
-
 <a href="https://kscript.me/home"><img src="./kscript.png"/></a>
 
 </td></tr>
