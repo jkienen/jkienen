@@ -23,7 +23,7 @@
 <table>
 <tr><td align="center">
 
-<a href="https://kscript.me/home"><img src="./aaa.png"/></a>
+<a href="https://kscript.me/home"><img src="./aaa.png" heigth="500"/></a>
 
 </td></tr>
 </table>
