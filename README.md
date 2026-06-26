@@ -36,10 +36,10 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 | Featured projects | What it delivers |
 |:---:|:---:|
-| [_`Crowdstrike Batch-Execution`_](https://github.com/jkienen/CS-Batch-Execution) | _Runs a custom command across every server in seconds via one CrowdStrike RTR batch session, exported as a periodic CSV report._ |
+| [_`Crowdstrike Batch Execution`_](https://github.com/jkienen/CS-Batch-Execution) | _Runs a custom command across every server in seconds via one CrowdStrike RTR batch session, exported as a periodic CSV report._ |
 | [_`Crowdstrike Detection Cmdline History`_](https://github.com/jkienen/CS-Detection-Cmdline-History) | _SOAR workflow that auto-emails a compromised host's command-line history on every High/Critical or OverWatch detection, with full process lineage._ |
 | [_`Crowdstrike Prevention Health Sensor`_](https://github.com/jkienen/CS-Prevention-Health-Sensor) | _Fleet-wide sensor health audit built on Zero Trust Assessment, surfacing RFM and degraded protections in a per-OS OK/ATTENTION report._ |
 | [_`Crowdstrike USB Device Control Usage`_](https://github.com/jkienen/CS-Device-Control-Usage) | _Audits the Device Control USB allowlist against real usage, flagging each exception as active or dormant so stale ones can be safely revoked._ |
 | [_`Crowdstrike Wazuh Integration`_](https://github.com/jkienen/CS-Wazuh-Integration) | _Ingests CrowdStrike Falcon alerts into Wazuh every 5 minutes, classified by product (IDP, EDR, XDR) and severity. No SIEM connector required._ |
-| [_`DataLake-Layers-Template`_](https://github.com/jkienen/DataLake-Layers-Template) | _Organizes a Data Lake's processing layers (Raw → Silver → Gold) and the indicators and automations generated from them._ |
+| [_`Data Lake Layers Template`_](https://github.com/jkienen/DataLake-Layers-Template) | _Organizes a Data Lake's processing layers (Raw → Silver → Gold) and the indicators and automations generated from them._ |
 | [_`Full Stack Task Manager`_](https://github.com/jkienen/Challenge-TaskManager) | _Full-stack task manager (FastAPI + SQLite + Next.js), fully containerized with Docker Compose and covered by automated API tests._ |
