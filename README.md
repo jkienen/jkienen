@@ -36,7 +36,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 | Featured projects | What it delivers |
 |:---:|:---:|
-| [_`Crowdstrike Batch Execution`_](https://github.com/jkienen/CS-Batch-Execution) | _<mark>`Fleet-wide answers in seconds + audit-ready evidence`</mark> run any custom command across every server in a single RTR batch session, exported as CSV, turning multi-day fleet questions into a minutes-long query._ |
+| [_`Crowdstrike Batch Execution`_](https://github.com/jkienen/CS-Batch-Execution) | _<mark>`Fleet-wide answers in seconds + audit-ready evidence`</mark> run any custom command across every server in a single RTR batch session, exported as CSV, in minutes instead of hours._ |
 | [_`Crowdstrike Detection Cmdline History`_](https://github.com/jkienen/CS-Detection-Cmdline-History) | _<mark>`Analyst time back + faster triage decisions`</mark> command-line history and full process lineage land in the responder's inbox on detection, cutting first-response triage time by 30+ minutes._ |
 | [_`Crowdstrike Prevention Health Sensor`_](https://github.com/jkienen/CS-Prevention-Health-Sensor) | _<mark>`EDR health-check freeing ~24 analyst-hours per week`</mark> fleet-wide sensor-health audit built on Zero Trust Assessment, surfacing RFM and degraded protections in a per-OS OK/ATTENTION report._ |
 | [_`Crowdstrike USB Device Control Usage`_](https://github.com/jkienen/CS-Device-Control-Usage) | _<mark>`Defensible least-privilege, backed by evidence`</mark> audits the Device Control USB allowlist against real usage, flagging each exception as active or dormant so stale ones can be safely revoked._ |
