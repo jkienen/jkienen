@@ -2,7 +2,7 @@
 <table>
 <tr><td align="center">
 
-<a href="https://kscript.me/home"><img src="./Files/kscript.png"/></a>
+<a href="https://kscript.me/home"><img src="./Files/kscript.gif"/></a>
 
 </td></tr>
 </table>
