@@ -59,7 +59,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 <table width="100%">
 <tr><td align="center">
 
-<img src="./Files/featured-project.png">
+<a href="https://jkienen.github.io/Catalog-DataLake_v1/Catalog/DataLake-Graph_Pyvis.html"><img src="./Files/featured-project.gif"/></a>
 
 </td></tr>
 </table>
@@ -90,7 +90,7 @@ _It ships with **15+ endpoints** across CrowdStrike, Tenable and VCenter, **30+ 
 
 _**Living documentation, written and standardized by AI — every KPI auditable down to the code that produced it, at any moment, with no human upkeep.**_
 
-_**[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)**_
+_[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)_
 
 </td>
 </tr>
