@@ -83,7 +83,7 @@ _This catalog makes the whole chain visible. An AI skill reads each project's co
 <tr>
 <td width="50%" align="center">
 
-_It ships with **15+ endpoints** across CrowdStrike, Tenable and VCenter, **30+ Gold indicators** to track monthly, **the automations that act on them**, and an **Audit layer** that keeps the evidence the action erased._
+_It ships with **15+ endpoints** across CrowdStrike, Tenable and VCenter, **30+ Gold indicators** to track monthly, **the automations that act on them**, and an **Audit layer** that keeps the evidence the action erased — all reusable as working samples._
 
 </td>
 <td width="50%" align="center">
