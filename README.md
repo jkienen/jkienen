@@ -35,7 +35,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 -------------------------
 
 <table width="100%">
-<tr><td  align="center>
+<tr><td  align="center">
 
 ## Featured Project
 
