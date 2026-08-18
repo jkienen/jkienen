@@ -34,14 +34,14 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 -------------------------
 
-### Featured Project
+<table width="100%">
+<tr><td>
+
+**Featured Project**
 
 <p align="center">
   <img src="./Files/featured-project.png" alt="Full Data Lake graph rendered from the live catalog: Raw endpoints across Crowdstrike, Tenable and VCenter feeding Silver datasets, Audits, Gold indicator files and Automations, color-coded by layer and grouped by project.">
 </p>
-
-<table width="100%">
-<tr><td align="center">
 
 Every automation in production is a decision made on someone's behalf, and when one deletes or closes a record, the only proof it existed goes with it.
 
