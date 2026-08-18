@@ -59,7 +59,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 <table width="100%">
 <tr><td align="center">
 
-<a href="https://jkienen.github.io/Catalog-DataLake_v1/Catalog/DataLake-Graph_Pyvis.html"><img src="./Files/featured-project.gif"/></a>
+<a href="https://jkienen.github.io/Catalog-DataLake_v1/Catalog/DataLake-Graph_Pyvis.html"><img src="./Files/featured-project-B.gif"/></a>
 
 </td></tr>
 </table>
