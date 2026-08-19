@@ -52,7 +52,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 <div align="center">
 
-**Featured Project: `Data Lake Catalog Documentation`**
+**Featured Project: `Data Lake Catalog`**
 
 </div>
 
