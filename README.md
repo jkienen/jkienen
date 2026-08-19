@@ -68,12 +68,12 @@ _I design architectures and automation pipelines that eliminate manual work and 
 <tr>
 <td width="50%" align="center">
 
-_Every automation in production is a decision made on someone's behalf, and when one deletes or closes a record, the only proof it existed goes with it._
+_`1.` Every automation in production is a decision made on someone's behalf, and when one deletes or closes a record, the only proof it existed goes with it._
 
 </td>
 <td width="50%" align="center">
 
-_This catalog makes the whole chain visible. An AI skill reads each project's code and writes one YAML file per endpoint, rule, audit, indicator and automation._
+_`2.` This catalog makes the whole chain visible. An AI skill reads each project's code and writes one YAML file per endpoint, rule, audit, indicator and automation._
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ _`3.` It ships with **15+ endpoints** across CrowdStrike, Tenable and VCenter, *
 </td>
 <td width="50%" align="center">
 
-_**Living documentation, written and standardized by AI — every KPI auditable down to the code that produced it, at any moment, with no human upkeep.**_
+_<mark>`4.`</mark> **Living documentation, written and standardized by AI — every KPI auditable down to the code that produced it, at any moment, with no human upkeep.**_
 
 _[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)_
 
