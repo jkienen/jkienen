@@ -49,6 +49,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 </div>
 
 -------------------------
+-------------------------
 
 <div align="center">
 
@@ -96,6 +97,7 @@ _[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)_
 </tr>
 </table>
 
+-------------------------
 -------------------------
 
 <table width="100%">
