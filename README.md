@@ -52,7 +52,7 @@ _I design architectures and automation pipelines that eliminate manual work and 
 
 <div align="center">
 
-**Featured Project**
+**Featured Project: Data Lake Catalog Documentation**
 
 </div>
 
@@ -88,7 +88,7 @@ _`3.` It ships with **15+ endpoints** across CrowdStrike, Tenable and VCenter, *
 </td>
 <td width="50%" align="center">
 
-_<mark>`4.`</mark> **Living documentation, written and standardized by AI — every KPI auditable down to the code that produced it, at any moment, with no human upkeep.**_
+_`4.` **Living documentation, written and standardized by AI — every KPI auditable down to the code that produced it, at any moment, with no human upkeep.**_
 
 _[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)_
 
