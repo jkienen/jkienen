@@ -103,6 +103,19 @@ _[Explore this catalog ->](https://github.com/jkienen/Catalog-DataLake_v1)_
 <tr><th align="center">Ready-to-Run Projects<div><img width="350" height="1" alt=""></div></th><th align="center">What it delivers<div><img width="850" height="1" alt=""></div></th></tr>
 </thead>
 <tbody>
+
+<tr>
+<td align="center">
+
+[_`Crowdstrike AI Flight Control`_](https://github.com/jkienen/CS-AI-Flight-Control)
+
+</td>
+<td align="center">
+
+_<mark>`AI-reviewed CID hierarchy + ticket-ready changes`</mark> draws the Flight Control parent/child structure from a console export, applies the changes you describe in plain language and writes the step-by-step support ticket, with no hand-built CSVs or manual name checks._
+
+</td>
+</tr>
 <tr>
 <td align="center">
 
