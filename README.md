@@ -8,26 +8,6 @@
 </table>
 </div>
 
-<table width="100%">
-<thead>
-<tr><th align="center">Yin<div><img width="600" height="1" alt=""></div></th><th align="center">Yang<div><img width="600" height="1" alt=""></div></th></tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">
-
-_Is the state of darkness — the moment of collapse and dissolution. It is when cycles, or states break down and return to their raw, unformed potential._<br><br>_[Atlas](https://kscript.me/atlas) . [Aurora](https://kscript.me/aurora) . [Fauno](https://kscript.me/fauno) . [Hero](https://kscript.me/hero) . [Texugo](https://kscript.me/texugo) . [Vilgax](https://kscript.me/vilgax)_
-
-</td>
-<td align="center">
-
-_Is the purification of that previous state — the force that takes what dissolved and reshapes it into something new, clearer, and more refined than before._<br><br>_[Atlas](https://atlas.kscript.me) . [Aurora](https://aurora.kscript.me) . [Fauno](https://fauno.kscript.me) . [Hero](https://hero.kscript.me) . [Texugo](https://texugo.kscript.me) . [Vilgax](https://vilgax.kscript.me)_
-
-</td>
-</tr>
-</tbody>
-</table>
-
 -------------------------
 
 <div align="center">
